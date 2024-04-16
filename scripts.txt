@@ -1,0 +1,9 @@
+A Python script is, basically just a text file which you input your Python code in order to build a larger application.
+
+Since the Python interpreter is suitable for small tasks and chunks of code only, Python scripts allow you to build programs having hundreds or thousands of lines of code, make changes to your code and run it as many times as you want.
+
+The main thing you have to remember here is that each Pyton file or script must have the '.py'extension, not '.txt' or anything else. Furthermore you can name your script however you like, just as with any other file on your system.
+
+Now, in order to create and edit the text within your Python script, you must use a text editor or an IDE (Intergrated Develepment Environment) -highligts some Python-specific words using predefined colors, just to make your code easier to read.
+
+Now its time to run our small application. We can do that by simply opening the command line/terminal and typing in 'python', a space and then the name of the file we just created. Alos remember to add not just the file name, but also the path that file and, very important, .py extension, so in my case, that would be, python scripts.py 

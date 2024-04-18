@@ -19,7 +19,7 @@ def my_first_function():
     "This is our first function!"
     print("Hello Python!")
 
-# So, as i said before, we have the def keyword, the name of the function, my_first_function, then then the parantheses, and finally the colon. This is the way you define a function. 
+# So, as i said before, we have the def keyword, the name of the function, my_first_function, then the parantheses, and finally the colon. This is the way you define a function. 
 
 # One important thing to remember here is that in between the parantheses you can specify one or several parameters for the function. We will see how to do that in a moment. 
 

@@ -128,4 +128,4 @@ print(router1.model)
 print(router1.serialno)
 print(router1.ios)
 
-router1.print_router('23-04-2024')
+router1.print_router('23-04-24')

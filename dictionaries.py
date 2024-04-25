@@ -154,7 +154,7 @@ print(score_average)
 # for later in the course
 students_info = [
     {
-        'name': s_name,
+        'name': student_name,
         'marks': []
     }
 ]

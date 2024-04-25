@@ -20,3 +20,5 @@ pdf.set_font('Times', style='B', size=14)
 pdf.cell(w=0, h=25, txt='Elvis', border=1, ln=1)
 
 pdf.output('sample pdf')
+
+# *****This was just a test file *****
